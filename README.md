@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Naufal Zakwan 👋
+# Hi, Saya Muhammad Naufal Zakwan 👋
 
 **Front-end Developer** · Pontianak, Indonesia
 
