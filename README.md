@@ -10,9 +10,10 @@ Saya tertarik membangun website yang responsif, interaktif, dan nyaman digunakan
 - **[Personal Portfolio](https://github.com/naufalzakwan/naufalzakwan-portfolio)** — Website portofolio interaktif dengan Next.js, TypeScript, GSAP, dan cinematic storytelling.
 -->
 
-- **[EGGGYM Platform](https://github.com/naufalzakwan/egg-gym-platform)** — Proyek platform gym dengan fitur untuk kebutuhan pengelolaan dan pengguna.
-- **[Airport Digital Customer Service](https://github.com/naufalzakwan/airport-digital-customer-service)** — Proyek sistem layanan pelanggan digital untuk lingkungan bandara.
-- **[Kuala Outdoor](https://github.com/naufalzakwan/PBL-KUALA-OUTDOOR)** — Proyek website penyewaan perlengkapan outdoor.
+- **[Personal Portfolio](https://github.com/naufalzakwan/naufalzakwan-portfolio)** — Website portofolio interaktif menggunakan Next.js, TypeScript, GSAP, dan cinematic storytelling.
+- **[EGGGYM Platform](https://github.com/naufalzakwan/egg-gym-platform)** — Platform gym dengan fitur untuk kebutuhan pengelolaan dan pengguna.
+- **[Airport Digital Customer Service](https://github.com/naufalzakwan/airport-digital-customer-service)** — Sistem layanan pelanggan digital untuk lingkungan bandara.
+- **[Kuala Outdoor](https://github.com/naufalzakwan/PBL-KUALA-OUTDOOR)** — Website penyewaan perlengkapan outdoor.
 
 ### 🛠️ Technologies & Tools
 
